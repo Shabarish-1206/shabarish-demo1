@@ -1,2 +1,3 @@
 # shabarish-demo1
 This is my first git repository
+name of the author is shabarish
